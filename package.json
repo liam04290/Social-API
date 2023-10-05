@@ -20,7 +20,7 @@
   "homepage": "https://github.com/liam04290/Social-API#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^7.0.2"
+    "mongoose": "^7.5.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.9"
